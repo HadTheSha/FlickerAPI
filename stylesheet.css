@@ -1,0 +1,19 @@
+.container{
+  position: center;
+  background-color: #EEEEEE;
+}
+#img_display{
+  width: 700px;
+  height:400px;
+  margin-left: 360px;
+}
+h1{
+  margin-left: 410px;
+  font-family: fantasy;
+}
+
+.footi{
+  position: center;
+  height: 40px;
+  background-color: pink;
+}
